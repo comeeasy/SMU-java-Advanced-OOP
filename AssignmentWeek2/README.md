@@ -1,5 +1,7 @@
 # How to run
 
-$ cd AssignmentWeek2
-$ javac *.java
-$ java Main
+```bash
+$ cd AssignmentWeek2<br>
+$ javac *.java<br>
+$ java Main<br>
+```
